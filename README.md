@@ -1,5 +1,5 @@
 # Voice-Activated-Assistant
-I designed and implemented a voice-activated assistant that can perform various tasks based on user commands.The assistant listens for a wakeup command, recognizes and extracts meaningful words from the user's voice input, and performs different actions accordingly. It utilizes speech recognition, natural language processing, and external APIs to provide a seamless user experience.
+We designed and implemented a voice-activated assistant that can perform various tasks based on user commands.The assistant listens for a wakeup command, recognizes and extracts meaningful words from the user's voice input, and performs different actions accordingly. It utilizes speech recognition, natural language processing, and external APIs to provide a seamless user experience.
 
 Features:
 Wakeup Command: The assistant is activated when the user says "hello."
